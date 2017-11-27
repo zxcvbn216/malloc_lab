@@ -49,6 +49,7 @@ team_t team = {
  */
 int mm_init(void)
 {
+	printf("test line");
     return 0;
 }
 
